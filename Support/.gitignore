@@ -1,0 +1,4 @@
+/user_guide
+/Auth Docs
+logs/*
+!logs/index.html
